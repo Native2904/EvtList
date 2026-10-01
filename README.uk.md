@@ -5,6 +5,8 @@
 
 English: [README.md](README.md) · Deutsch: [LIESMICH.md](LIESMICH.md) · Русский: [README.ru.md](README.ru.md) · Dansk: [README.da.md](README.da.md)
 
+<img width="1872" height="302" alt="2026-10-01_180034" src="https://github.com/user-attachments/assets/526002b2-1833-40db-9699-5b7f930bfc0a" />
+
 ## Навіщо
 
 «Переглядач подій» Windows зберігає все, але ховає відповіді за технічними термінами.
