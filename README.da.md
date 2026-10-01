@@ -5,6 +5,8 @@ Et filsystem-plugin (WFX), kun læsning, 32 og 64 bit.
 
 English: [README.md](README.md) · Deutsch: [LIESMICH.md](LIESMICH.md) · Русский: [README.ru.md](README.ru.md) · Українська: [README.uk.md](README.uk.md)
 
+<img width="1872" height="302" alt="2026-10-01_180034" src="https://github.com/user-attachments/assets/526002b2-1833-40db-9699-5b7f930bfc0a" />
+
 ## Hvorfor
 
 Windows Logbog gemmer alt, men gemmer svarene bag tekniske begreber.
