@@ -5,6 +5,8 @@ Ein Dateisystem-Plugin (WFX), nur lesend, 32 und 64 Bit.
 
 English: [README.md](README.md) · Русский: [README.ru.md](README.ru.md) · Українська: [README.uk.md](README.uk.md) · Dansk: [README.da.md](README.da.md)
 
+<img width="1872" height="302" alt="2026-10-01_180034" src="https://github.com/user-attachments/assets/526002b2-1833-40db-9699-5b7f930bfc0a" />
+
 ## Wozu
 
 Die Windows-Ereignisanzeige speichert alles, versteckt die Antworten aber hinter
