@@ -5,6 +5,9 @@ A read-only file system plugin (WFX), 32- and 64-bit.
 
 Deutsch: [LIESMICH.md](LIESMICH.md) · Русский: [README.ru.md](README.ru.md) · Українська: [README.uk.md](README.uk.md) · Dansk: [README.da.md](README.da.md)
 
+<img width="1872" height="302" alt="2026-10-01_180034" src="https://github.com/user-attachments/assets/526002b2-1833-40db-9699-5b7f930bfc0a" />
+
+
 ## Why
 
 The Windows Event Viewer stores everything, but it hides the answers behind
